@@ -37,10 +37,12 @@ I am capable of using both classical machine learning and cutting-edge deep lear
 #### Системный анализ
 
 | Swagger | DBeaver |
+|----------|----------|
 
 
 #### Статистический анализ
 
 | Excel | AB-тесты |
+|----------|----------|
 
 
