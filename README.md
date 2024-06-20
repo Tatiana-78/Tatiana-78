@@ -8,7 +8,7 @@ I'm a multi-profile Data Analyst with a passion on BigData and data storages.
 I am capable of using both classical machine learning and cutting-edge deep learning models and also have a strong foundation in financial analysis.
 
 
-### Языки и инструменты 
+### Освоенные инструменты 
 
 #### Python и визуализация
 
