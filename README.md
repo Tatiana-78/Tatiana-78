@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Tatiana-78/Tatiana-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About Me:
 I'm a data analyst with a passion on BigData and data storages. 
 I have a strong foundation in financial analysis and capable of using both classical machine learning and cutting-edge deep learning models.
