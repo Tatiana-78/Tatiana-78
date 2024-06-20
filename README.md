@@ -1,10 +1,10 @@
 ## Обо мне:
 Аналитик данных, люблю BigData и хранилища данных. 
-Имею хорошую базу в финансовом анализе и могу применять как методы классического машинного обучения, так и самые современные модели глубокого обучения.
+Могу применять как методы классического машинного обучения, так и самые современные модели глубокого обучения. Имею хорошую базу в финансовом анализе.
 
 ## About Me:
-I'm a data analyst with a passion on BigData and data storages. 
-I have a strong foundation in financial analysis and capable of using both classical machine learning and cutting-edge deep learning models.
+I'm a multi-profile Data Analyst with a passion on BigData and data storages. 
+I am capable of using both classical machine learning and cutting-edge deep learning models and also have a strong foundation in financial analysis.
 
 ## Языки и инструменты 
 <div>
