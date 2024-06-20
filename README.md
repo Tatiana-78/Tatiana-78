@@ -13,7 +13,7 @@ I am capable of using both classical machine learning and cutting-edge deep lear
 #### Python и визуализация
 
 | Python3 | Numpy | Pandas | Sklearn | Matplotlib | Plotly |
-|----------|----------|----------|----------|----------|----------|
+|---------|---------|---------|---------|---------|---------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="40" height="40"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="40" height="40"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plt" alt="plt" width="40" height="40"/>  |
 
 #### ML, DL, MLOps
