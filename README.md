@@ -30,37 +30,37 @@ Specialist: 060500 - Accounting, Audit and Financial Analysis
 
 # С чем работаю
 
-#### Python и визуализация
+## Python и визуализация
 
 | Python3 | Numpy | Pandas | Sklearn | Matplotlib | Plotly |
 |---------|---------|---------|---------|---------|---------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="40" height="40"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="40" height="40"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plt" alt="plt" width="40" height="40"/>  |
 
-#### ML, DL, MLOps
+## ML, DL, MLOps
 
 | PyTorch | Keras | Flask | FastAPI | Streamlit |
 |----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Torch"  alt="Torch" width="40" height="40"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/> |
 
-#### BigData
+## BigData
 
 | PostgreSQL | SQLite | Hadoop | Spark | Airflow | 
 |----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="40" height="40"/>
 
- #### Среды и прочее
+ ## Среды и прочее
 
 | Git | Docker | Linux | Ssh |
 |----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="40" height="40"/> |
 
-#### Системный анализ
+## Системный анализ
 
 | Swagger | DBeaver |
 |----------|----------|
 
 
-#### Статистический анализ
+## Статистический анализ
 
 | Excel | AB-тесты |
 |----------|----------|
