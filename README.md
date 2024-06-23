@@ -1,4 +1,4 @@
-Привет, меня завут Татьяна Чернова 👋
+# Привет, меня зовут Татьяна Чернова 👋
 
 ### Обо мне
 Аналитик данных, люблю BigData и хранилища данных. 
@@ -13,16 +13,18 @@
 
 Специалист: 060500 - Бухгалтерский учет, аудит и анализ финансово-хозяйственной деятельности организаций
 
+# Hi there, I'm Tatiana Chernova 👋
+
 ### About Me
 I'm a multi-profile Data Analyst with a passion on BigData and data storages. 
 I am capable of using both classical machine learning and cutting-edge deep learning models and also have a strong foundation in financial analysis.
 
 Degrees:
-<br> Moscow Institute of Physics and Technology (MIPT) at the moment <br>
+* Moscow Institute of Physics and Technology (MIPT) at the moment
 
 Master's degree: 01.04.02 - Applied Mathematics (Data Science)
 
-<br> Поволжский (Марийский) государственный технический университет <br>
+* Поволжский (Марийский) государственный технический университет
 
 Specialist: 060500 - Accounting, Audit and Financial Analysis
 
