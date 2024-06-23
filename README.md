@@ -28,7 +28,7 @@ Master's degree: 01.04.02 - Applied Mathematics (Data Science)
 
 Specialist: 060500 - Accounting, Audit and Financial Analysis
 
-### С чем работаю
+# С чем работаю
 
 #### Python и визуализация
 
