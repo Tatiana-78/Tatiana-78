@@ -2,11 +2,27 @@
 Аналитик данных, люблю BigData и хранилища данных. 
 Могу применять как методы классического машинного обучения, так и самые современные модели глубокого обучения. Имею хороший опыт в финансовом анализе.
 
+Образование:
+<br> Московский физико-технический институт (МФТИ) в данный момент <br>
+
+Магистр: 01.04.02 - Прикладная математика (Data Science)
+
+<br> Поволжский (Марийский) государственный технический университет <br>
+
+Специалист: 060500 - Бухгалтерский учет, аудит и анализ финансово-хозяйственной деятельности организаций
 
 ### About Me
 I'm a multi-profile Data Analyst with a passion on BigData and data storages. 
 I am capable of using both classical machine learning and cutting-edge deep learning models and also have a strong foundation in financial analysis.
 
+Degrees:
+<br> Moscow Institute of Physics and Technology (MIPT) at the moment <br>
+
+Master's degree: 01.04.02 - Applied Mathematics (Data Science)
+
+<br> Поволжский (Марийский) государственный технический университет <br>
+
+Specialist: 060500 - Accounting, Audit and Financial Analysis
 
 ### С чем работаю
 
